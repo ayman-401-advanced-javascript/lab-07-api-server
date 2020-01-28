@@ -3,7 +3,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/ayman-401-advanced-javascript/lab-07-api-server/actions/runs/32069508)
+- [submission PR](https://github.com/ayman-401-advanced-javascript/lab-07-api-server/actions/runs/32069508) (action)
 
 
 ### Setup
